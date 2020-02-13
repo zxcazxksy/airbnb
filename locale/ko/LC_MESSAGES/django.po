@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-13 23:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/base.html:26
+msgid "Search By City"
+msgstr "도시로 찾기"
+
+#: templates/partials/footer.html:5
+msgid "Please don't copy us."
+msgstr "복제하지마세요."
+
+#: templates/partials/footer.html:7
+msgid "All rights reserved"
+msgstr "무단 전재 금지"
+
+#: templates/partials/nav.html:7
+msgid "Stop hosting"
+msgstr "호스팅 정지"
+
+#: templates/partials/nav.html:9
+msgid "Start hosting"
+msgstr "호스팅 시작"
+
+#: templates/partials/nav.html:14
+msgid "Create Room"
+msgstr "방 만들기"
+
+#: templates/partials/nav.html:16
+msgid "Favs"
+msgstr "즐겨찾기"
+
+#: templates/partials/nav.html:17
+msgid "Profile"
+msgstr "프로필"
+
+#: templates/partials/nav.html:18
+msgid "Log out"
+msgstr "로그아웃"
+
+#: templates/partials/nav.html:20
+msgid "Log in"
+msgstr "로그인"
+
+#: templates/partials/nav.html:21
+msgid "Sign up"
+msgstr "회원가입"
+
+#: templates/rooms/room_detail.html:35
+#, fuzzy
+#| msgid "Save to Favourites"
+msgid "Remove from Favourites"
+msgstr "즐겨찾기"
+
+#: templates/rooms/room_detail.html:38
+msgid "Save to Favourites"
+msgstr "즐겨찾기"
+
+#: templates/rooms/room_list.html:28
+#, python-format
+msgid ""
+"Page\n"
+"            %(current_page)s of %(total_pages)s"
+msgstr ""
+
+#: users/mixins.py:13
+msgid "Can't go there"
+msgstr "갈 수 없습니다"
+
+#: users/models.py:22
+msgid "Male"
+msgstr "남자"
+
+#: users/models.py:23
+msgid "Female"
+msgstr "여자"
+
+#: users/models.py:24
+msgid "Other"
+msgstr "기타"
+
+#: users/models.py:31
+msgid "English"
+msgstr "영어"
+
+#: users/models.py:32
+msgid "Korean"
+msgstr "한국어"
+
+#: users/models.py:52
+msgid "gender"
+msgstr "성별"
+
+#: users/models.py:54
+msgid "bio"
+msgstr "전기"
+
+#: users/models.py:57
+msgid "language"
+msgstr "언어"
+
+#: users/models.py:85
+msgid "Verify Airbnb Account"
+msgstr "Airbnb 계정을 확인하세요."
